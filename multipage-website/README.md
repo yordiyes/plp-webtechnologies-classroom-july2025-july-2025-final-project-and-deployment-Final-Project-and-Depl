@@ -66,4 +66,8 @@ git clone https://github.com/yordiyes/plp-webtechnologies-classroom-july2025-jul
 
 cd plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl
 ```
+## Live Demo
+
+Check out the live website here:  
+[View Live Website](https://plp-webtechnologies-classroom-july2-pi.vercel.app/)
 
